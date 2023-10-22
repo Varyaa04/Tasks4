@@ -1,3 +1,4 @@
+//ЗАДАНИЕ 1
 fun areCoprime(m: Int, n: Int): Boolean {
     var a = m
     var b = n
